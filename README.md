@@ -1,4 +1,4 @@
-# Mitigating Distributed Denial of Service attacks in Software-Defined Networks using Programming Protocol-Independent Packet Processors(P4) using Machine Learning algorithms
+# Mitigating DDoS attacks in SDN using Programming Protocol-Independent Packet Processors(P4) using Machine Learning algorithms
 
 ## Introduction
 Final year research project to design a programmable virtual switch that detects DDoS attacks and is implemented in a Software-Defined Network in Mininet.
